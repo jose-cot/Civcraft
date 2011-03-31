@@ -9,7 +9,7 @@ import com.golden.gamedev.engine.*;
 
 
 public class Map extends AbstractTileBackground2 {
-
+	//josefs comment
 	public static final int TILE_WIDTH = 32, TILE_HEIGHT = 32;
 
 	Chipset		chipsetE;
